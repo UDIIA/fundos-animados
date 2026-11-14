@@ -1,0 +1,12 @@
+{
+  "name": "hibra-ai",
+  "owner": { "name": "Hibra" },
+  "description": "Mods do Hibra para o Claude. Novidades em https://hibra.ai",
+  "plugins": [
+    {
+      "name": "fundos-animados",
+      "source": "./",
+      "description": "Quatro fundos animados para o app Desktop do Claude. Troca com /fundo. Fundos novos saem em https://hibra.ai"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "fundos-animados",
+  "version": "0.2.0",
+  "description": "Quatro fundos animados com cores próprias para o app Desktop do Claude: Aurora boreal, Neon 84, Sertão ao entardecer e Cerrado de manhã. Troca com /fundo. Fundos novos e outros mods do Hibra saem em https://hibra.ai",
+  "author": { "name": "Hibra", "url": "https://hibra.ai" },
+  "homepage": "https://hibra.ai",
+  "repository": "https://github.com/UDIIA/fundos-animados",
+  "keywords": ["tema", "fundo", "desktop", "mod"]
+}
